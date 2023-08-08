@@ -1,4 +1,4 @@
-
+--fuck
 if QUADHUB_LOADED then -- USE FOR DEEPWOKEN DEV NOT ROGUE COPIES IT WILL BAN
     game:GetService("StarterGui"):SetCore("SendNotification", {
         Title = "Astep Hub";
