@@ -1,4 +1,4 @@
-if QUADHUB_LOADED then -- USE FOR DEEPWOKEN DEV NOT ROGUE COPIES IT WILL BAN
+if QUADHUB_LOADED then -- DEEPWOKEN DEV
     game:GetService("StarterGui"):SetCore("SendNotification", {
         Title = "Astep Hub";
         Text = "Script already loaded";
